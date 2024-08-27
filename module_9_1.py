@@ -10,7 +10,7 @@ def len_(int_list):
     return len(int_list)
 
 def sum_(int_list):
-    return len(int_list)
+    return sum(int_list)
 
 def sorted_(int_list):
     return sorted(int_list)
